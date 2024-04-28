@@ -362,7 +362,9 @@ void draw(){
   endShape();
   
   }
-  
+
+//guia para trazo
+ 
   void mousePressed(){
   
   println(mouseX, ";", mouseY);
